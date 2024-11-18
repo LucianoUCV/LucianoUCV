@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Computer Science Student sharing projects made throughout my learning journey<br>👩🏻‍🎓 Studying at the University of Craiova ( Faculty of Automatics, Computer Science and Electronics ), Romania<br>💭 Currently learning Back-End Development and Embedded Systems Programming!
+👩🏻‍💻 Computer Science Student sharing projects made throughout my learning journey<br>👨🏻‍🎓 Studying at the University of Craiova ( Faculty of Automatics, Computer Science and Electronics ), Romania<br>💭 Currently learning Back-End Development and Embedded Systems Programming!
 
 
 ## 🌐 Socials:
